@@ -30,6 +30,25 @@
               "type": "password"
             }
           },
+          "platform": {
+              "title": "Platform",
+              "type": "string",
+              "default": "AUGUST",
+              "oneOf": [
+                {
+                    "title": "August",
+                    "enum": [
+                        "AUGUST"
+                    ]
+                },
+                {
+                    "title": "Yale Home",
+                    "enum": [
+                        "YALE_HOME"
+                    ]
+                },
+            ]
+          },
           "installId": {
             "title": "Install ID",
             "type": "string"

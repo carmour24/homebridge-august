@@ -45,7 +45,7 @@
     "lock"
   ],
   "dependencies": {
-    "august-api": "^1.4.0",
+    "august-api": "https://github.com/carmour24/august-api.git#add-yale-home",
     "rxjs": "^7.8.1",
     "@homebridge/plugin-ui-utils": "^0.1.0",
     "super-stringify": "^1.0.0"
