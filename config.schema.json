@@ -46,7 +46,7 @@
                     "enum": [
                         "YALE_HOME"
                     ]
-                },
+                }
             ]
           },
           "installId": {
