@@ -22,7 +22,7 @@ export type credentials = {
   password?: string;
   validateCode?: string;
   isValidated?: boolean;
-  platform?: "AUGUST" | "YALE_HOME";
+  platform?: 'AUGUST' | 'YALE_HOME';
 };
 
 export type options = {
