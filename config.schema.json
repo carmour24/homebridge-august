@@ -226,7 +226,7 @@
       "title": "August Account Info",
       "expandable": true,
       "expanded": false,
-      "items": ["credentials.augustId", "credentials.password", "credentials.validateCode", "credentials.installId", "credentials.isValidated"]
+        "items": ["credentials.platform", "credentials.augustId", "credentials.password", "credentials.validateCode", "credentials.installId", "credentials.isValidated"]
     },
     {
       "type": "fieldset",
